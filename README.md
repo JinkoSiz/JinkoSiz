@@ -32,13 +32,13 @@
 <br />
 
 ### Streak stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nps-rf&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JinkoSiz&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nps-rf&show_icons=true&theme=tokyonight) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JinkoSiz&show_icons=true&theme=tokyonight) 
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nps_rf">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nps_rf"> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Nps_rf&show_icons=true&theme=gotham"> -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JinkoSiz">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinkoSiz"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=JinkoSiz&show_icons=true&theme=gotham"> -->
 
 
 [Github]: https://github.com/github
