@@ -1,4 +1,4 @@
-<img src="https://cdn2.iconfinder.com/data/icons/cat-power/256/cat_drunk.png" align="right"/>  
+<img src="https://i.ibb.co/3sfxsdV/image.png" align="right" height=300px width=270px/>  
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20861B&width=450&lines=I'm+Zakhar+Sotnichenko;Or...;JinkoSiz)](https://git.io/typing-svg)
 
