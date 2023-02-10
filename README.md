@@ -13,15 +13,11 @@
 
 
 ### Languages and Tools:
+[<img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>][Github]
 [<img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>][Github]
-<!-- [<img align="left" width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png"/>][Java] --> 
-[<img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968228.png"/>][Github]
 [<img align="left" width="25px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-256.png"/>][SQL]
 <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][Github]
-[<img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png"/>][Git]
-[<img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/ecqlipse2/CMD.png"/>][cmd]
 
 <br />
 
