@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/3sfxsdV/image.png" align="right" height=300px width=270px/>  
-
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20861B&width=450&lines=I'm+Zakhar+Sotnichenko;Or...;JinkoSiz)](https://git.io/typing-svg)
 
 ## I'm a student of ITMO
