@@ -27,7 +27,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JinkoSiz&show_icons=true&theme=tokyonight) 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/JinkoSiz/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/JinkoSiz/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/JinkoSiz/github-stats-transparent/output/generated/languages.svg)
