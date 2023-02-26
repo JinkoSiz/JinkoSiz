@@ -8,7 +8,6 @@
 
 ### Languages and Tools:
 [<img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>][Github]
-[<img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>][Github]
 [<img align="left" width="25px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-256.png"/>][SQL]
 <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
