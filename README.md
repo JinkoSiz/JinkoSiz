@@ -26,13 +26,13 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JinkoSiz&show_icons=true&theme=tokyonight) 
 
-# GitHub CLI api
-# https://cli.github.com/manual/gh_api
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-gh api \
-  -H "Accept: application/vnd.github+json" \
-  -H "X-GitHub-Api-Version: 2022-11-28" \
-  /repos/OWNER/REPO/stats/contributors
+</a>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JinkoSiz"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinkoSiz"> -->
