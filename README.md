@@ -3,7 +3,7 @@
 ## I'm a student of ITMO
 
 - ⚡ I am currently a 3rd grade student
-- 🌱 I’m currently learning Python and ML
+- 🌱 I’m currently learning Python, Django and ML
 
 
 ### Languages and Tools:
