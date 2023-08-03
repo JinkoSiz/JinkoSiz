@@ -2,7 +2,7 @@
 
 ## I'm a student of ITMO
 
-- ⚡ I am currently a 3rd grade student
+- ⚡ I am currently a 4rd grade student
 - 🌱 I’m currently learning Python, Django and ML
 
 
