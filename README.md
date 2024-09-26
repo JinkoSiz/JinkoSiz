@@ -2,8 +2,8 @@
 
 ## I'm a student of ITMO
 
-- ⚡ I am currently a 4rd grade student
-- 🌱 I’m currently learning Python, Django and ML
+- ⚡ Studying for master's degree
+- 🌱 I’m currently working as a Full-Stack web-developer
 
 
 ### Languages and Tools:
