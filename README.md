@@ -16,12 +16,6 @@
 
 <br />
 
-### If you decide to contact me:
-[<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-256.png"/>][Vk]
-[<img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][Telegram]
-[<img align="left" width="24px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-256.png"/>][Discord]
-<br />
-
 ### Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JinkoSiz&theme=tokyonight_duo)](https://git.io/streak-stats)
 
