@@ -34,9 +34,6 @@
 
 
 [Github]: https://github.com/github
-[Vk]: https://vk.com/zahar101101
-[Telegram]: https://t.me/Quonix
-[Discord]:  https://discordapp.com/users/467734546603835393
 [Markdown]: https://www.markdownguide.org/getting-started
 [Git]: https://git-scm.com
 [cmd]: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
