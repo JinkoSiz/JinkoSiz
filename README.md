@@ -1,6 +1,6 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=20861B&width=450&lines=I'm+JinkoSiz)](https://git.io/typing-svg)
 # 💫 About Me:
-🔭 I’m currently working on CRM for building comapnies<br>🌱 I’m currently learning ML and multiple back-end techs<br>⚡ Fun fact: I hope you did not found this after meeting me in VRC (yeah Rik that's for you)
+🔭 I’m currently working on CRM for building comapnies<br>🌱 I’m currently learning ML and multiple back-end techs<br>👯 I’m collaborating with JQuBiiK<br>⚡ Fun fact: I hope you did not found this after meeting me in VRC (yeah Rik that's for you)
 
 
 ## 🌐 Socials:
